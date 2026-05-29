@@ -1,0 +1,15 @@
+matplotlib==3.9.2
+openai==1.52.2
+pydantic==2.9.2
+PyPDF2==3.0.1
+python-dotenv==1.0.1
+streamlit==1.39.0
+streamlit_echarts==0.4.0
+numpy
+pandas
+streamlit_lottie==0.0.5
+transformers==4.34.0
+Requests==2.32.3
+torch
+huggingface_hub
+streamlit_pdf_reader
